@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\bin\Debug\net5.0\whaat.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\bin\Debug\net5.0\whaat.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\bin\Debug\net5.0\whaat.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\bin\Debug\net5.0\whaat.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\bin\Debug\net5.0\whaat.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\bin\Debug\net5.0\ref\whaat.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\bin\Debug\net5.0\whaat.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\obj\Debug\net5.0\whaat.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\obj\Debug\net5.0\whaat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\obj\Debug\net5.0\whaat.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\obj\Debug\net5.0\whaat.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\obj\Debug\net5.0\whaat.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\obj\Debug\net5.0\whaat.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\obj\Debug\net5.0\ref\whaat.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\obj\Debug\net5.0\whaat.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Md4\whaat\whaat\obj\Debug\net5.0\whaat.genruntimeconfig.cache

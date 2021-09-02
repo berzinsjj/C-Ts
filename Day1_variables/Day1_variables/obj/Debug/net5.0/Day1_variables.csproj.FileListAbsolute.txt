@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\bin\Debug\net5.0\Day1_variables.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\bin\Debug\net5.0\Day1_variables.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\bin\Debug\net5.0\Day1_variables.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\bin\Debug\net5.0\Day1_variables.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\bin\Debug\net5.0\Day1_variables.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\bin\Debug\net5.0\ref\Day1_variables.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\bin\Debug\net5.0\Day1_variables.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\obj\Debug\net5.0\Day1_variables.csprojAssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\obj\Debug\net5.0\Day1_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\obj\Debug\net5.0\Day1_variables.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\obj\Debug\net5.0\Day1_variables.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\obj\Debug\net5.0\Day1_variables.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\obj\Debug\net5.0\Day1_variables.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\obj\Debug\net5.0\ref\Day1_variables.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\obj\Debug\net5.0\Day1_variables.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day1_variables\Day1_variables\obj\Debug\net5.0\Day1_variables.genruntimeconfig.cache

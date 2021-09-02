@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\bin\Debug\net5.0\day11Mdarray.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\bin\Debug\net5.0\day11Mdarray.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\bin\Debug\net5.0\day11Mdarray.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\bin\Debug\net5.0\day11Mdarray.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\bin\Debug\net5.0\day11Mdarray.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\bin\Debug\net5.0\ref\day11Mdarray.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\bin\Debug\net5.0\day11Mdarray.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\obj\Debug\net5.0\day11Mdarray.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\obj\Debug\net5.0\day11Mdarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\obj\Debug\net5.0\day11Mdarray.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\obj\Debug\net5.0\day11Mdarray.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\obj\Debug\net5.0\day11Mdarray.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\obj\Debug\net5.0\day11Mdarray.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\obj\Debug\net5.0\ref\day11Mdarray.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\obj\Debug\net5.0\day11Mdarray.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\day11arrayMd\day11Mdarray\day11Mdarray\obj\Debug\net5.0\day11Mdarray.genruntimeconfig.cache

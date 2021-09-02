@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\obj\Debug\net5.0\MD3.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\obj\Debug\net5.0\MD3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\obj\Debug\net5.0\MD3.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\obj\Debug\net5.0\MD3.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\obj\Debug\net5.0\MD3.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\bin\Debug\net5.0\MD3.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\bin\Debug\net5.0\MD3.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\bin\Debug\net5.0\MD3.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\bin\Debug\net5.0\MD3.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\bin\Debug\net5.0\MD3.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\bin\Debug\net5.0\ref\MD3.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\bin\Debug\net5.0\MD3.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\obj\Debug\net5.0\MD3.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\obj\Debug\net5.0\ref\MD3.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\obj\Debug\net5.0\MD3.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD3\MD3\MD3\obj\Debug\net5.0\MD3.genruntimeconfig.cache

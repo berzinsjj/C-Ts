@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\bin\Debug\net5.0\MdExtra.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\bin\Debug\net5.0\MdExtra.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\bin\Debug\net5.0\MdExtra.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\bin\Debug\net5.0\MdExtra.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\bin\Debug\net5.0\MdExtra.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\bin\Debug\net5.0\ref\MdExtra.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\bin\Debug\net5.0\MdExtra.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\obj\Debug\net5.0\MdExtra.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\obj\Debug\net5.0\MdExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\obj\Debug\net5.0\MdExtra.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\obj\Debug\net5.0\MdExtra.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\obj\Debug\net5.0\MdExtra.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\obj\Debug\net5.0\MdExtra.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\obj\Debug\net5.0\ref\MdExtra.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\obj\Debug\net5.0\MdExtra.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MDextra\MdExtra\MdExtra\obj\Debug\net5.0\MdExtra.genruntimeconfig.cache

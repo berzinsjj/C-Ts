@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\obj\Debug\net5.0\PCvsUser.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\obj\Debug\net5.0\PCvsUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\obj\Debug\net5.0\PCvsUser.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\obj\Debug\net5.0\PCvsUser.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\obj\Debug\net5.0\PCvsUser.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\bin\Debug\net5.0\PCvsUser.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\bin\Debug\net5.0\PCvsUser.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\bin\Debug\net5.0\PCvsUser.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\bin\Debug\net5.0\PCvsUser.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\bin\Debug\net5.0\PCvsUser.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\bin\Debug\net5.0\ref\PCvsUser.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\bin\Debug\net5.0\PCvsUser.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\obj\Debug\net5.0\PCvsUser.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\obj\Debug\net5.0\ref\PCvsUser.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\obj\Debug\net5.0\PCvsUser.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\RandomPCvsUser\PCvsUser\PCvsUser\obj\Debug\net5.0\PCvsUser.genruntimeconfig.cache

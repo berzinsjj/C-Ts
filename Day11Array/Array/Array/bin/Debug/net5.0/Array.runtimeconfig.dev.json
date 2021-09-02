@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Blenderis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Blenderis\\.nuget\\packages"
+    ]
+  }
+}
