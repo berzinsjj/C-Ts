@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\bin\Debug\net5.0\Dau13List.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\bin\Debug\net5.0\Dau13List.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\bin\Debug\net5.0\Dau13List.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\bin\Debug\net5.0\Dau13List.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\bin\Debug\net5.0\Dau13List.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\bin\Debug\net5.0\ref\Dau13List.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\bin\Debug\net5.0\Dau13List.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\obj\Debug\net5.0\Dau13List.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\obj\Debug\net5.0\Dau13List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\obj\Debug\net5.0\Dau13List.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\obj\Debug\net5.0\Dau13List.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\obj\Debug\net5.0\Dau13List.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\obj\Debug\net5.0\Dau13List.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\obj\Debug\net5.0\ref\Dau13List.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\obj\Debug\net5.0\Dau13List.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day13List\Dau13List\Dau13List\obj\Debug\net5.0\Dau13List.genruntimeconfig.cache
