@@ -6,7 +6,7 @@ namespace Day_14
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Saucu Klasi");
+            Console.WriteLine("Studentu Nedienas");
 
             StudentList.List();
         }

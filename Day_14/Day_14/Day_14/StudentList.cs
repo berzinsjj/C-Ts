@@ -8,10 +8,11 @@ namespace Day_14
 {
     class StudentList
     {
-         public static void List()
-        {
-            List<string> cilvekuList = new List<string>();
+       public static List<string> cilvekuList = new List<string>();
 
+        public static void List()
+        {
+            
             String choice = "";
 
             while (choice != "0")
@@ -26,26 +27,31 @@ namespace Day_14
                     break;
                 }
 
-                Console.WriteLine("Ievadiet Studenta Vardu un Uzvardu");
-                string Students = Console.ReadLine();
                 
-
                 switch (choice)
                 {
                     case "0":
                         Console.WriteLine("Goodbye");
                         break;
                     case "1":
+                        Console.WriteLine("Ievadiet Studenta Vardu un Uzvardu");
+                        string Students = Console.ReadLine();
                         cilvekuList.Add(Students);
                         break;
                     case "2":
-                        Console.WriteLine("Students " + cilvekuList);
+                        for (int i = 0; i < cilvekuList.Count; i++)
+                        {
+                            Console.WriteLine("Students " + cilvekuList[i]);
+                        }
+                        if (cilvekuList.Count == 0)
+                        {
+                            Console.WriteLine("Studentu nav");
+                            break;
+                        }
                         break;
                     default:
                         Console.WriteLine("Jaievada 0,1,2 , lai izveletos");
                         break;
-
-
                 }
 
             }
