@@ -8,7 +8,7 @@ namespace Day_14
 {
     class StudentList
     {
-       public static List<string> cilvekuList = new List<string>();
+        public static List<string> cilvekuList = new List<string>();
 
         public static void List()
         {
@@ -27,7 +27,6 @@ namespace Day_14
                     break;
                 }
 
-                
                 switch (choice)
                 {
                     case "0":

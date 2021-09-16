@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\bin\Debug\net5.0\Day_14_MD.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\bin\Debug\net5.0\Day_14_MD.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\bin\Debug\net5.0\Day_14_MD.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\bin\Debug\net5.0\Day_14_MD.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\bin\Debug\net5.0\Day_14_MD.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\bin\Debug\net5.0\ref\Day_14_MD.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\bin\Debug\net5.0\Day_14_MD.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\obj\Debug\net5.0\Day_14_MD.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\obj\Debug\net5.0\Day_14_MD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\obj\Debug\net5.0\Day_14_MD.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\obj\Debug\net5.0\Day_14_MD.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\obj\Debug\net5.0\Day_14_MD.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\obj\Debug\net5.0\Day_14_MD.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\obj\Debug\net5.0\ref\Day_14_MD.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\obj\Debug\net5.0\Day_14_MD.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day_14_MD\Day_14_MD\Day_14_MD\obj\Debug\net5.0\Day_14_MD.genruntimeconfig.cache
