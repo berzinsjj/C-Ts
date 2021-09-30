@@ -1,0 +1,10 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day17MD_2\Minesana\Minesana\obj\Debug\Minesana.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day17MD_2\Minesana\Minesana\obj\Debug\Minesana.Form1.resources
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day17MD_2\Minesana\Minesana\obj\Debug\Minesana.Properties.Resources.resources
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day17MD_2\Minesana\Minesana\obj\Debug\Minesana.csproj.GenerateResource.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day17MD_2\Minesana\Minesana\obj\Debug\Minesana.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day17MD_2\Minesana\Minesana\bin\Debug\Minesana.exe.config
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day17MD_2\Minesana\Minesana\bin\Debug\Minesana.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day17MD_2\Minesana\Minesana\bin\Debug\Minesana.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day17MD_2\Minesana\Minesana\obj\Debug\Minesana.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day17MD_2\Minesana\Minesana\obj\Debug\Minesana.pdb

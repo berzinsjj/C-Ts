@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\bin\Debug\net5.0\varduSpele.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\bin\Debug\net5.0\varduSpele.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\bin\Debug\net5.0\varduSpele.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\bin\Debug\net5.0\varduSpele.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\bin\Debug\net5.0\varduSpele.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\bin\Debug\net5.0\ref\varduSpele.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\bin\Debug\net5.0\varduSpele.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\obj\Debug\net5.0\varduSpele.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\obj\Debug\net5.0\varduSpele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\obj\Debug\net5.0\varduSpele.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\obj\Debug\net5.0\varduSpele.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\obj\Debug\net5.0\varduSpele.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\obj\Debug\net5.0\varduSpele.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\obj\Debug\net5.0\ref\varduSpele.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\obj\Debug\net5.0\varduSpele.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\MD\varduSpele\varduSpele\obj\Debug\net5.0\varduSpele.genruntimeconfig.cache

@@ -27,14 +27,14 @@ namespace Day15
             {
                 for (int i = 0; i <= 10; i++)
                 {
-                    Console.WriteLine(i);
+                    Console.WriteLine(saraksts[i]);
                 }
             }
             else if (sum >= 15)
             {
-                for (int i = 10; i >= 0; i--)
+                for (int i = 9; i >= 0; i--)
                 {
-                    Console.WriteLine(i);
+                    Console.WriteLine(saraksts[i]);
                 }
             }
             
