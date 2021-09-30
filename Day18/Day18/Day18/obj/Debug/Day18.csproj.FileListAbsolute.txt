@@ -1,0 +1,10 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day18\Day18\Day18\bin\Debug\Day18.exe.config
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day18\Day18\Day18\bin\Debug\Day18.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day18\Day18\Day18\bin\Debug\Day18.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day18\Day18\Day18\obj\Debug\Day18.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day18\Day18\Day18\obj\Debug\Day18.Form1.resources
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day18\Day18\Day18\obj\Debug\Day18.Properties.Resources.resources
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day18\Day18\Day18\obj\Debug\Day18.csproj.GenerateResource.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day18\Day18\Day18\obj\Debug\Day18.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day18\Day18\Day18\obj\Debug\Day18.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day18\Day18\Day18\obj\Debug\Day18.pdb
