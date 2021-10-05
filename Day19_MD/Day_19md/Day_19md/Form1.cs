@@ -26,7 +26,7 @@ namespace Day_19md
 
             if (firstList.Count == 3)
             {
-                label1.Text = "IR jau 3";
+                listView1.Text = "IR jau 3";
             }
 
             for (int i = 0; i < firstList.Count; i++)
@@ -46,7 +46,7 @@ namespace Day_19md
                 result += Convert.ToString(firstList[i]);
             }
 
-            label1.Text = result;
+            listView1.Text = result;
 
             
 
