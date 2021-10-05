@@ -19,12 +19,19 @@ namespace WindowsFormsApp1
 
         private void Poga_Click(object sender, EventArgs e)
         {
-            int pirmais = Convert.ToInt32(TekstuIerakstitajs.Text);
-            int otrais = Convert.ToInt32(TekstuIerakstitajs2.Text);
-            int result = pirmais + otrais;
+            try
+            {
+                int pirmais = Convert.ToInt32(TekstuIerakstitajs.Text);
+                int otrais = Convert.ToInt32(TekstuIerakstitajs2.Text);
 
-            RezultatuRaditajs.Text = Convert.ToString(result);
-          
+                int result = pirmais + otrais;
+                RezultatuRaditajs.Text = Convert.ToString(result);
+            }
+            catch
+            {
+                RezultatuRaditajs.Text = "Ievadi skaitli";
+            }
+            
         }
     }
 }

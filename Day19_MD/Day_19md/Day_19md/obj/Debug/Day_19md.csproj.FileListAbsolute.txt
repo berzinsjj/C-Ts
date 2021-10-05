@@ -1,0 +1,10 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day19_MD\Day_19md\Day_19md\bin\Debug\Day_19md.exe.config
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day19_MD\Day_19md\Day_19md\bin\Debug\Day_19md.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day19_MD\Day_19md\Day_19md\bin\Debug\Day_19md.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day19_MD\Day_19md\Day_19md\obj\Debug\Day_19md.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day19_MD\Day_19md\Day_19md\obj\Debug\Day_19md.Form1.resources
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day19_MD\Day_19md\Day_19md\obj\Debug\Day_19md.Properties.Resources.resources
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day19_MD\Day_19md\Day_19md\obj\Debug\Day_19md.csproj.GenerateResource.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day19_MD\Day_19md\Day_19md\obj\Debug\Day_19md.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day19_MD\Day_19md\Day_19md\obj\Debug\Day_19md.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day19_MD\Day_19md\Day_19md\obj\Debug\Day_19md.pdb
