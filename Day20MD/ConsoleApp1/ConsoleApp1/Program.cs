@@ -49,15 +49,14 @@ namespace ConsoleApp1
                     Console.WriteLine(line);
                     line = reader.ReadLine();
                 }
-
-                WriteSample();
               
                 reader.Close();
 
             }
             catch
             {
-                Console.WriteLine("dsdsdsd");
+                Console.WriteLine("Fails neeksistee");
+                WriteSample();
             }
             
         }
