@@ -17,10 +17,15 @@ namespace FileIO
             String fileName = folderPath + "sample1.txt";
             try
             {
+                Console.WriteLine("Ievadi 3 frazes");
                 StreamWriter writer = new StreamWriter(fileName);
-                writer.WriteLine("Man");
-                writer.WriteLine("Garso");
-                writer.WriteLine("Alus");
+                for (int i =0; i <3; i++)
+                {
+                    Console.WriteLine("ievadi frazi");
+                    string ievade = Console.ReadLine();
+                    writer.WriteLine(ievade);
+                }
+                
                 writer.Close();
             }
             catch
