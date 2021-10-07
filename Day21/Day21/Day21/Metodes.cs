@@ -10,7 +10,7 @@ namespace Day21
     class Metodes
     {
         static String folderPath = @"C:\Users\Blenderis\Desktop\Tscourse\Csharp\";
-        List<String> teksti = new List<String>();
+        static List<String> teksti = new List<String>();
         public static void ReadSample()
         {
             String fileName = folderPath + "day21.txt";
@@ -21,7 +21,7 @@ namespace Day21
                 String line = reader.ReadLine();
                 while (line != null)
                 {
-                    Console.WriteLine(line);
+                    teksti.Add(line);
                     line = reader.ReadLine();
                 }
 
@@ -32,6 +32,14 @@ namespace Day21
             {
                 Console.WriteLine("Fails neeksistee");
             }
+
+            int sum = 0;
+
+            for (int i = 0; i < teksti.Count; i++)
+            {
+                sum = sum + i;
+            }
+            Console.WriteLine(sum);
 
         }
 
