@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\bin\Debug\net5.0\Day22OOP.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\bin\Debug\net5.0\Day22OOP.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\bin\Debug\net5.0\Day22OOP.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\bin\Debug\net5.0\Day22OOP.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\bin\Debug\net5.0\Day22OOP.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\bin\Debug\net5.0\ref\Day22OOP.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\bin\Debug\net5.0\Day22OOP.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\obj\Debug\net5.0\Day22OOP.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\obj\Debug\net5.0\Day22OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\obj\Debug\net5.0\Day22OOP.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\obj\Debug\net5.0\Day22OOP.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\obj\Debug\net5.0\Day22OOP.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\obj\Debug\net5.0\Day22OOP.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\obj\Debug\net5.0\ref\Day22OOP.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\obj\Debug\net5.0\Day22OOP.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day22OOP\Day22OOP\Day22OOP\obj\Debug\net5.0\Day22OOP.genruntimeconfig.cache
