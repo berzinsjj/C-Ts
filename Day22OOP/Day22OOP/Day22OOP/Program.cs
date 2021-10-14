@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Day22OOP
 {
@@ -6,13 +7,38 @@ namespace Day22OOP
     {
         static void Main(string[] args)
         {
-            Candidate c1 = new Candidate("Jānis", "Bērziņš", 8.7, 9.6);
-            c1.Print();
+            List<Candidate> caList = new List<Candidate>();
+
+            Console.WriteLine("Cik Kandidati?");
+            int skaits = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 0; i < skaits; i++)
+            {
+                Console.WriteLine("Vards?");
+                string name = Console.ReadLine();
+
+                Console.WriteLine("Uzvards?");
+                string lastName = Console.ReadLine();
+
+                Console.WriteLine("Ievadi HR Atzimi");
+                double hrAtzime = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("Ievadi Ts Atzimi");
+                double tsAtzime = Convert.ToDouble(Console.ReadLine());
+
+                Candidate addCandidate = new Candidate(name,lastName,hrAtzime,tsAtzime);
+                caList.Add(addCandidate);
+            }
 
             Console.WriteLine();
+            Console.WriteLine("Kandidatu liste");
+            Console.WriteLine();
 
-            Candidate c2 = new Candidate("Juris", "Ābols", 6.6, 7.1);
-            c2.Print();
+            foreach (Candidate ca in caList)
+            {
+                ca.Print();
+                Console.WriteLine();
+            }
         }
     }
 }
