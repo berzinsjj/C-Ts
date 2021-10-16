@@ -13,6 +13,7 @@ namespace Day22OOP
         public double hrAtzime;
         public double tsAtzime;
 
+
         public Candidate(String name, String lastName, double hrAtzime, double tsAtzime)
         {
             this.name = name;

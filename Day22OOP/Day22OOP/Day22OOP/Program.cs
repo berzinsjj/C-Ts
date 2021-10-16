@@ -14,6 +14,8 @@ namespace Day22OOP
 
             for (int i = 0; i < skaits; i++)
             {
+                Console.WriteLine("Jus iedavat kandidatu nr- " + (i));
+
                 Console.WriteLine("Vards?");
                 string name = Console.ReadLine();
 
@@ -33,6 +35,8 @@ namespace Day22OOP
             Console.WriteLine();
             Console.WriteLine("Kandidatu liste");
             Console.WriteLine();
+
+
 
             foreach (Candidate ca in caList)
             {
