@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\bin\Debug\net5.0\DAy24_JSON.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\bin\Debug\net5.0\DAy24_JSON.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\bin\Debug\net5.0\DAy24_JSON.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\bin\Debug\net5.0\DAy24_JSON.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\bin\Debug\net5.0\DAy24_JSON.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\bin\Debug\net5.0\ref\DAy24_JSON.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\bin\Debug\net5.0\DAy24_JSON.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\obj\Debug\net5.0\DAy24_JSON.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\obj\Debug\net5.0\DAy24_JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\obj\Debug\net5.0\DAy24_JSON.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\obj\Debug\net5.0\DAy24_JSON.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\obj\Debug\net5.0\DAy24_JSON.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\obj\Debug\net5.0\DAy24_JSON.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\obj\Debug\net5.0\ref\DAy24_JSON.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\obj\Debug\net5.0\DAy24_JSON.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day24\DAy24_JSON\DAy24_JSON\obj\Debug\net5.0\DAy24_JSON.genruntimeconfig.cache
