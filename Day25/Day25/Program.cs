@@ -27,17 +27,17 @@ namespace Day25
                 Console.WriteLine("Ievadi stringu");
                 string ievade = Console.ReadLine();
                 stringList.Add(ievade);
-
-                String jsonString = JsonSerializer.Serialize(stringList);
-
-                Console.WriteLine(jsonString);
-
-                StreamWriter writer = new StreamWriter(fileName);
-
-                writer.WriteLine(jsonString);
-
-                writer.Close();
             }
+
+            String jsonString = JsonSerializer.Serialize(stringList);
+
+            Console.WriteLine(jsonString);
+
+            StreamWriter writer = new StreamWriter(fileName);
+
+            writer.WriteLine(jsonString);
+
+            writer.Close();
 
         }
 
@@ -55,7 +55,7 @@ namespace Day25
             
             for (int i = 0; i<stringList.Count; i++)
             {
-                Console.WriteLine(stringList);
+                Console.WriteLine(stringList[i]);
             }
         }
     }

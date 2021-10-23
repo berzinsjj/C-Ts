@@ -14,7 +14,7 @@ namespace DAy24_JSON
         public String lastName { get; set; }
         public int year { get; set; }
 
-        public void InitStudent(String userName, String passWord, String name, String lastName, int year)
+        public void InitUser(String userName, String passWord, String name, String lastName, int year)
         {
             this.userName = userName;
             this.passWord = passWord;
@@ -25,10 +25,9 @@ namespace DAy24_JSON
 
 
 
-        public void Print()
+        public override string ToString()
         {
-            Console.WriteLine("aaaaaa");
-            
+            return "Izvada info";
         }
     }
 }

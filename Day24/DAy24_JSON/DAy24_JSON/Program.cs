@@ -36,7 +36,7 @@ namespace DAy24_JSON
                 Console.WriteLine("Gads?");
                 int year = Convert.ToInt32(Console.ReadLine());
 
-                user.InitStudent(userName, passWord, name, lastName, year);
+                user.InitUser(userName, passWord, name, lastName, year);
                 String jsonString = JsonSerializer.Serialize(user);
 
                 Console.WriteLine(jsonString);
@@ -64,7 +64,7 @@ namespace DAy24_JSON
                 String a = reader.ReadToEnd();
                 reader.Close();
                 User user = JsonSerializer.Deserialize<User>(a);
-                Console.WriteLine(user);
+                Console.WriteLine(user.userName);
             }
             catch
             {

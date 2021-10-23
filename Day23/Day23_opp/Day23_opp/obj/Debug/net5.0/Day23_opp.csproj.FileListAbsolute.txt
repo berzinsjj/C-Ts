@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\bin\Debug\net5.0\Day23_opp.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\bin\Debug\net5.0\Day23_opp.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\bin\Debug\net5.0\Day23_opp.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\bin\Debug\net5.0\Day23_opp.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\bin\Debug\net5.0\Day23_opp.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\bin\Debug\net5.0\ref\Day23_opp.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\bin\Debug\net5.0\Day23_opp.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\obj\Debug\net5.0\Day23_opp.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\obj\Debug\net5.0\Day23_opp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\obj\Debug\net5.0\Day23_opp.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\obj\Debug\net5.0\Day23_opp.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\obj\Debug\net5.0\Day23_opp.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\obj\Debug\net5.0\Day23_opp.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\obj\Debug\net5.0\ref\Day23_opp.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\obj\Debug\net5.0\Day23_opp.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day23\Day23_opp\Day23_opp\obj\Debug\net5.0\Day23_opp.genruntimeconfig.cache
