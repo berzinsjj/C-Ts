@@ -7,7 +7,9 @@ namespace Day29
     {
         static void Main(string[] args)
         {
-            Piemers1();
+
+            //Piemers1();
+            Piemers2();
         }
 
         static void Piemers1()
@@ -33,6 +35,13 @@ namespace Day29
                 Console.WriteLine("Dilst " + cilvekuList[i]);
             }
 
+        }
+
+        static void Piemers2()
+        {
+            Customer cs = new Customer();
+            cs.CustomeraPrikoli("Juris", "Abele", 23434343, "ZAABAKS@inbox.lv");
+            cs.print();
         }
     }
 }
