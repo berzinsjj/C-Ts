@@ -1,0 +1,16 @@
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\bin\Debug\net5.0\Day29.exe
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\bin\Debug\net5.0\Day29.deps.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\bin\Debug\net5.0\Day29.runtimeconfig.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\bin\Debug\net5.0\Day29.runtimeconfig.dev.json
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\bin\Debug\net5.0\Day29.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\bin\Debug\net5.0\ref\Day29.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\bin\Debug\net5.0\Day29.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\obj\Debug\net5.0\Day29.csproj.AssemblyReference.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\obj\Debug\net5.0\Day29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\obj\Debug\net5.0\Day29.AssemblyInfoInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\obj\Debug\net5.0\Day29.AssemblyInfo.cs
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\obj\Debug\net5.0\Day29.csproj.CoreCompileInputs.cache
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\obj\Debug\net5.0\Day29.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\obj\Debug\net5.0\ref\Day29.dll
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\obj\Debug\net5.0\Day29.pdb
+C:\Users\Blenderis\Desktop\Tscourse\Csharp\Day29\Day29\Day29\obj\Debug\net5.0\Day29.genruntimeconfig.cache
